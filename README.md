@@ -1,17 +1,21 @@
-<h3> Olá, eu sou o Gustavo de Oliveira Veroneze ✋ </h3>
-<h3> Estudante de analise desenvolvimento de sistemas 👾</h3>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_oliveroneze/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/G_USTAVOOO)
+## Olá, eu sou o Gustavo de Oliveira Veroneze ✋
+- 👾 Estudante de analise desenvolvimento de sistemas
+- 🌱 Estudando: MySQL
+- 😁 Pronouns: Ele/Dele
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoVeroneze&show_icons=true&theme=tokyonight)
 
-<h3> Tecnologias que estou aprendendo 💻</h3>
-
-<div style="display: inline_block">
-    <img align="center" alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<div style="display: inline_block"><br>
+    <img allign="center" alt="html5" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> ‎‎‎     ‎‎
+    <img allign="center" alt="CSS3" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> ‎‎‎     ‎‎
+    <img allign="center" alt="JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> ‎‎‎     ‎‎
+    <img allign="center" alt="MySQL" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> ‎‎‎     ‎‎
 </div>
+
+##
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gustavo_oliveroneze/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gustavo-veroneze-a2a974328/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
+
+![Snake animation](https://github.com/rafaba
