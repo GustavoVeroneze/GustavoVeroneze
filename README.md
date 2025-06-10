@@ -12,7 +12,7 @@
     <img allign="center" alt="MySQL" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> ‎‎‎     ‎‎
 </div>
 
-##
+## 🌐 Connect With Me 🌐
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gustavo_oliveroneze/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gustavo-veroneze-a2a974328/)
