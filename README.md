@@ -2,14 +2,20 @@
 - 👾 Estudante de analise desenvolvimento de sistemas
 - 🌱 Estudando: MySQL
 - 😁 Pronouns: Ele/Dele
+  
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoVeroneze&show_icons=true&theme=tokyonight)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoVeroneze&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVeroneze&theme=tokyonight&layout=compact" />
+</p>
+
 
 <div style="display: inline_block"><br>
     <img allign="center" alt="html5" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> ‎‎‎     ‎‎
     <img allign="center" alt="CSS3" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> ‎‎‎     ‎‎
     <img allign="center" alt="JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> ‎‎‎     ‎‎
-    <img allign="center" alt="MySQL" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> ‎‎‎     ‎‎
+    <img allign="center" alt="MySQL" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> ‎
+    <img allign="center" alt="C++" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />‎‎
 </div>
 
 ## 🌐 Connect With Me 🌐
