@@ -3,13 +3,6 @@
 - 🌱 Estudando: MySQL
 - 😁 Pronouns: Ele/Dele
   
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoVeroneze&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVeroneze&theme=tokyonight&layout=compact" />
-</p>
-
-
 <div style="display: inline_block"><br>
     <img allign="center" alt="html5" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> ‎‎‎     ‎‎
     <img allign="center" alt="CSS3" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> ‎‎‎     ‎‎
